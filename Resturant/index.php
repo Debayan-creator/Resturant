@@ -45,7 +45,7 @@ html {
 <body>
 <h1><strong><p style="color: rgb(253, 237, 7); text-size-adjust: 40px;">___GOLDEN MAHAL___</p></strong></h1>
 <div class="topnav">
-    <a class="active" href="resturant.html">Home</a>
+    <a class="active" href="index.php">Home</a>
     <a href="Menu.html">Menu</a>
     <a href="Contacts.html">Contact</a>
     <a href="Address.html">Address</a>
