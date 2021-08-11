@@ -17,6 +17,13 @@ html {
   background-color: #333;
   overflow: hidden;
 }
+@media only screen and (max-width: 600px)
+{
+.topnav
+{
+  margin: 1.7em
+}
+}
 
 
 .topnav a {
